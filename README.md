@@ -1,6 +1,6 @@
 Active DB
 ==
-A Siple active record database library
+A Simple active record database library
 --
 
 Included classes:
